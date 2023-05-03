@@ -10,7 +10,7 @@ body {
 }
 
 .head {
-  width: 800px;
+  width: 100%;
 }
 
 .box {
@@ -19,10 +19,7 @@ body {
   flex-direction: column;
   margin: 0 auto;
   align-items: center;
-}
-
-.flex {
-  display: flex;
+  width: 800px;
 }
 
 .container {
