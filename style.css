@@ -22,6 +22,10 @@ body {
   width: 800px;
 }
 
+.flex {
+  display: flex;
+}
+
 .container {
   display: flex;
   flex-direction: row;
@@ -48,7 +52,6 @@ h2 {
 
 .hobby {
   background: #e8ecff75;
-  border-radius: 7%;
   width: 100%;
   margin-bottom: 40px;
 }
@@ -64,7 +67,6 @@ h2 {
 
 .exp {
   background: #ffeec882;
-  border-radius: 7%;
   width: 100%;
   margin-bottom: 40px;
 }
@@ -90,7 +92,6 @@ td {
 
 .message1 {
   background: #f6c1c975;
-  border-radius: 7%;
   width: 100%;
 }
 
